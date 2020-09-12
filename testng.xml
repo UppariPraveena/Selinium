@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Applications/selenium/src/test/java/TestCases/LoginpageTest.java"><classes><class name="TestCases.LoginpageTest"><methods><include name="loginPageTitleTest"/><include name="logoTest"/><include name="navPageSignin"/><include name="logintest"/></methods></class></classes></test></suite>
